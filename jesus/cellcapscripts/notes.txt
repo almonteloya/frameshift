@@ -1,0 +1,3 @@
+After installation of CellCap and the required dependencies for interacting with the tahoe dataset.
+
+python run_cellcap.py
