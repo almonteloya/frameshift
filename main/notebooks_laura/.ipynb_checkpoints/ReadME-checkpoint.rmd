@@ -1,0 +1,5 @@
+Filter_drug: Filter Tahoe by selected cell lines and drugs. Iterate over each plate.
+Filter_cell_lines: Filter by selected drugs, keep all cell_lines. 
+Count_cells: Count the number of cells from the filtered
+Concatenate: Concatenate the datasets together from the filtered files.
+Cell_score: Correlation Augur vs Cell number
