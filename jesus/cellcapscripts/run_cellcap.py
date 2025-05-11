@@ -48,8 +48,6 @@ n_covar = len(covar)
 n_prog = 5
 
 
-
-
 #Drugs are the condition. Condition is string, condition is int
 adata.obs["Condition"] = adata.obs.drug.astype(str)
 codes, uniques = pd.factorize(adata.obs['Condition'])
